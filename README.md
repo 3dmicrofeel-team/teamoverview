@@ -80,6 +80,16 @@ Integrating 2D diffusion models with 3D Gaussian splatting for text-guided gener
 
 ## Fujia Yu
 
+1.**[An Interactive Visual System for Generating Striking Pseudo Base Stations Decisions](https://researchportal.tuni.fi/en/publications/an-interactive-visual-system-for-generating-striking-pseudo-base-)**
+
+**Fujia Yu**
+
+*Abstract*
+
+The Pseudo base stations cause a great number of social and economic security problems with spreading spam messages. However, it is a serious challenge for security department to recognize the behavior patterns of pseudo base stations, then make use of limited police resources to prevent their activities and even to arrest related criminals. In this paper, a novel visual analytic approach to reveal the spatial-temporal behavior patterns of pseudo base stations is presented. In this approach, it takes advantage of density clustering over high frequency positions, and curve fitting on each cluster. This system supports decision makers to formulate patrol routes on the basis of above approximate trajectory. This approach has been demonstrated effective by means of case studies of authority data and has been evaluated novel and valuable in the view of domain experts.
+
+## Yuanyi Zhou
+
 1.**[]()**
 
 ****
@@ -94,11 +104,19 @@ Integrating 2D diffusion models with 3D Gaussian splatting for text-guided gener
 **
 
 
+3.**[]()**
+
+****
+
+**
 
 
 
+2.**[]()**
 
+****
 
+**
 
 
 
