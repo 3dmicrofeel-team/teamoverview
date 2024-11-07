@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<font size=4> README: EN | <a href="./README.zh.md">中文</a>  </font>
+<font size=4>   </font>
     <h1>3dmicrofeel 😊: TEAM OVERVIEW</h1>
 </div>
 
