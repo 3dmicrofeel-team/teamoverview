@@ -96,65 +96,65 @@ Integrating 2D diffusion models with 3D Gaussian splatting for text-guided gener
 
 The Pseudo base stations cause a great number of social and economic security problems with spreading spam messages. However, it is a serious challenge for security department to recognize the behavior patterns of pseudo base stations, then make use of limited police resources to prevent their activities and even to arrest related criminals. In this paper, a novel visual analytic approach to reveal the spatial-temporal behavior patterns of pseudo base stations is presented. In this approach, it takes advantage of density clustering over high frequency positions, and curve fitting on each cluster. This system supports decision makers to formulate patrol routes on the basis of above approximate trajectory. This approach has been demonstrated effective by means of case studies of authority data and has been evaluated novel and valuable in the view of domain experts.
 
-2. **Leveraging Large Language Models and AI Agents for Dynamic Content Generation in Video Games (to be published)**
+2.**Leveraging Large Language Models and AI Agents for Dynamic Content Generation in Video Games (to be published)**
 
-**Author:** *Fujia Yu, Ximing Zhong*
+**Fujia Yu, Ximing Zhong**
 
 *Abstract*
 
 This study explores the application of large language models and AI agents to dynamically generate content in video games, creating responsive and adaptive player-driven experiences. By integrating AI, games can evolve in response to player actions, generating unique narratives and scenarios without the need for extensive manual scripting. The results showcase how AI-powered content generation can reduce development time while enhancing gameplay variety and immersion.
 
-3. **AI-Enhanced NPC Interaction: Utilizing AI Agents for Realistic and Adaptive Non-Player Character Behaviors (to be published)**
+3.**AI-Enhanced NPC Interaction: Utilizing AI Agents for Realistic and Adaptive Non-Player Character Behaviors (to be published)**
 
-**Author:** *Fujia Yu, Ximing Zhong, Yingkai Li*
+**Fujia Yu, Ximing Zhong, Yingkai Li** 
 
 *Abstract*
 
 This paper examines the use of AI agents to produce realistic and adaptive behaviors in non-player characters (NPCs). AI agents empower NPCs to respond intelligently to player choices, enabling more nuanced and immersive interactions. The study demonstrates that AI-enhanced NPC behavior can significantly improve player engagement by providing dynamic and context-sensitive responses within the game world.
 
-4. **Dynamic Story Generation: Integrating User Inputs and In-Game Environments for Immersive Narratives (to be published)**
+4.**Dynamic Story Generation: Integrating User Inputs and In-Game Environments for Immersive Narratives (to be published)**
 
-**Author:** *Fujia Yu, Ximing Zhong*
+**Fujia Yu, Ximing Zhong** 
 
 *Abstract*
 
 This paper proposes a dynamic storytelling framework that integrates player inputs and environmental data to generate immersive, personalized narratives. The system leverages AI algorithms to adapt story progression based on player interactions, creating unique experiences with each playthrough. Case studies reveal that such adaptive storytelling fosters deeper engagement and allows players to feel more involved in the story.
 
-5. **Intelligent Resource Management: AI Agents and Their Role in Managing Game Resources and Ecologies (to be published)**
+5.**Intelligent Resource Management: AI Agents and Their Role in Managing Game Resources and Ecologies (to be published)**
 
-**Author:** *Fujia Yu, Ximing Zhong, Yingkai Li*
+**Fujia Yu, Ximing Zhong, Yingkai Li**
 
 *Abstract*
 
 The study investigates AI agents in managing in-game resources and ecosystems to create balanced, self-sustaining game worlds. By controlling resource allocation and ecological dynamics, AI agents ensure players face strategic challenges while maintaining in-game equilibrium. This approach offers a scalable solution to resource management, enhancing both gameplay complexity and realism.
 
-6. **Scaling Game Systems: The Impact of AI on Dynamic Resource Allocation and Gameplay Adaptation (to be published)**
+6.**Scaling Game Systems: The Impact of AI on Dynamic Resource Allocation and Gameplay Adaptation (to be published)**
 
-**Author:** *Fujia Yu, Ximing Zhong*
+**Fujia Yu, Ximing Zhong** 
 
 *Abstract*
 
 This paper discusses AI's role in enabling scalable game systems through dynamic resource allocation and gameplay adaptation. By adjusting resources and adapting game mechanics in real-time, AI allows games to scale with player actions, providing a more responsive experience. The findings show that AI-driven adaptability leads to more engaging, varied gameplay.
 
-7. **Harnessing Multimodal Inputs and RAG Technology for Enhanced Game Interaction and Content Creation (to be published)**
+7.**Harnessing Multimodal Inputs and RAG Technology for Enhanced Game Interaction and Content Creation (to be published)**
 
-**Author:** *Fujia Yu, Ximing Zhong, Yingkai Li*
+**Fujia Yu, Ximing Zhong, Yingkai Li** 
 
 *Abstract*
 
 This paper presents an interactive framework using multimodal inputs and Retrieval-Augmented Generation (RAG) technology to enhance game interaction and content creation. This approach allows players to interact with the game world more fluidly through various input forms, creating a more seamless and immersive experience. The framework has been evaluated as an effective tool for both players and developers in creating adaptive, rich game content.
 
-8. **Designing Player-Centric Games: AI Approaches for Personalized and Immersive Gameplay (to be published)**
+8.**Designing Player-Centric Games: AI Approaches for Personalized and Immersive Gameplay (to be published)**
 
-**Author:** *Fujia Yu, Ximing Zhong*
+**Fujia Yu, Ximing Zhong** 
 
 *Abstract*
 
 The study outlines AI-driven approaches to create personalized, immersive gameplay experiences centered around player preferences. AI models adapt game dynamics to individual player choices and behaviors, leading to a tailored experience that enhances player engagement. Results indicate that AI-based personalization can foster a deeper connection between the player and the game world.
 
-9. **MMGSG: A Multimodal Multi-agent Game Systems Generation Framework (to be published)**
+9.**MMGSG: A Multimodal Multi-agent Game Systems Generation Framework (to be published)**
 
-**Author:** *Fujia Yu, Ximing Zhong, Yingkai Li*
+**Fujia Yu, Ximing Zhong, Yingkai Li**
 
 *Abstract*
 
