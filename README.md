@@ -160,6 +160,82 @@ The study outlines AI-driven approaches to create personalized, immersive gamepl
 
 This paper introduces the Multimodal Multi-agent Game Systems Generation (MMGSG) framework, designed to create complex, multimodal interactive game systems. Leveraging AI agents and multimodal inputs, MMGSG facilitates the creation of intricate game environments with dynamic agent interactions. The framework has been evaluated as a versatile tool for generating engaging, adaptive game systems suitable for a variety of genres.
 
+## Zixun Huang
+
+1.**[Robust Digital-Twin Localization via An RGBD.based Transformer Network and AComprehensive Evaluation on a Mobile Datase](https://github.com/augcog/DTTD2)**
+
+**Huang, Z, Yao, K  Zhao S, Pan C, Xu T, Feng, W, Yang A**
+
+2.**[MARL: Multi-scale Archetype Representation Learning for Urban Building Energy Modeling](https://openaccess.thecvf.com/content/ICCV2023W/CVAAD/html/Zhuang_MARL_Multi-scale_Archetype_Representation_Learning_for_Urban_Building_Energy_Modeling_ICCVW_2023_paper.html)**
+
+**Zhuang, X, Huang, Z, Zeng W, Caldas, L.**
+
+*Abstract*
+
+Building archetypes, representative models of building stock, are crucial for precise energy simulations in Urban Building Energy Modeling. The current widely adopted building archetypes are developed on a nationwide scale, potentially neglecting the impact of local buildings' geometric specificities. We present Multi-scale Archetype Representation Learning (MARL), an approach that leverages representation learning to extract geometric features from a specific building stock. Built upon VQ-AE, MARL encodes building footprints and purifies geometric information into latent vectors constrained by multiple architectural downstream tasks. These tailored representations are proven valuable for further clustering and building energy modeling. The advantages of our algorithm are its adaptability with respect to the different building footprint sizes, the ability for automatic generation across multi-scale regions, and the preservation of geometric features across neighborhoods and local ecologies. In our study spanning five regions in LA County, we show MARL surpasses both conventional and VQ-AE extracted archetypes in performance. Results demonstrate that geometric feature embeddings significantly improve the accuracy and reliability of energy consumption estimates.
+
+3.**[Encoding Urban Ecologies: Automated Building Archetype Generation through Self.Supervised Learning for Energy Modeling](https://arxiv.org/abs/2404.07435)**
+
+**Zhuang,X, Huang, Z, Zeng W, Caldas, L.**
+
+## Shengyu Meng
+
+1.**[Exploring in the latent space of design: A method of plausible building facades images generation, properties control and model explanation base on StyleGAN2](https://scholar.googleusercontent.com/scholar?q=cache:a_lglX1T5csJ:scholar.google.com/+Exploring+in+the+Latent+Space+of+Design:A+Method+of+Plausible+Building+Facades+lmages+&hl=en&as_sdt=0,5)**
+
+**Shengyu Meng**
+
+*Abstract*
+
+GAN has been widely applied in the research of architectural image generation. However, the quality and controllability of generated images, and the interpretability of model are still potential to be improved. In this paper, by imple menting StyleGAN2 model, plausible building façade images could be generated without conditional input. In addition, by applying GANSpace to analysis the latent space, high-level properties could be controlled for both generated images and novel images outside of training set. At last, the generating and controlling process could be visualized with image embedding and PCA projection method, which could achieve unsupervised classification of generated images, and help to understand the correlation between the images and their latent vectors.
+
+## Xuhui Lin
+
+1.**[RESHAPE Rapid forming and simulation system using unmanned aerial vehicles foarchitectural representation.](https://discovery.ucl.ac.uk/id/eprint/10178065/)**
+
+**Lin, X, Rizal M**
+
+*Abstract*
+
+As digital technology advances, multiple ways of repre-senting objects interactively in space, architects and designers begin to use Virtual Reality (VR) and Immersive Digital Environ-ments (IDE) to communicate their ideas. However, these technolo-gies are bounded with their spatial limitations. In responding to this issue, our paper introduces ReShape, a digital-physical spatial representation system supported by Unmanned Aerial Vehicle (UAV) swarm technology that allows a user to project their unbuilt design and interact with them in real space, unattached by headset, fixed cameras or screen. ReShape can be controlled by user orien-tation and gesture as an input, where the real-time feedback is provided by UAV spatial arrangement in space, augmented by computational simulation. Spatial data is transmitted between the UAV agents for the user to experience the digital model, creating a versatile and computationally efficient platform to edit and en-hance the design in real-space.
+
+## Alexander Grasser
+
+1.**[Pervasive Collaboration and Tangible Complexity in Realtime Architecture](https://www.researchgate.net/publication/344270210_Pervasive_Collaboration_and_Tangible_Complexity_in_Realtime_Architecture)**
+
+**Grasser,A, Parger, A, Hirschberg,U.**
+
+*Abstract*
+
+This paper reports on an ongoing experiment in design collaboration: an open collaborative realtime environment that enables participatory design activities in spatially distributed teams. The project builds on online platforms and open source ways of sharing design ideas, but also on recent advances in shared augmented reality enabled by game engine technology. Furthermore it focuses on combinatorial design of collaborative objects: the models shared in this way are not just geometric forms, but informed systems of parts with a procedural or combinatorial logic, an assembly strategy. By pooling and aggregating such intelligent assembly systems in a shared online realtime design space we are trying to move towards pervasive collaboration in architecture. Authors taking part in the project are united in a shared persistent design space and can design collectively. They experience what we refer to as tangible complexity: a playful mode of aggregating and combining design ideas of different authors. We argue that this pervasive collaboration can lead to novel types of complexity: an architecture of socially augmented formations.
+
+2.**[Reappraising Configuration and its Potential for Collaborative Objects](https://www.researchgate.net/publication/354474923_Reappraising_Configuration_and_its_Potential_for_Collaborative_Objects)**
+
+**Grasser, A. Parger, A.**
+
+*Abstract*
+
+This year's conference theme`Towards a new configurable architecture`, provides a good starting point for reappraising and reapplying previous concepts of Configuration' in architectural design. The concept reappears often, but was particularly powerful whenever new computational tools and architectural concepts emerged and revealed strong synergies. In the 1960ties there was such a moment when configuration's pluralistic properties embraced architectural concepts of structuralism and early computing. Therefore this paper looks back at previous concepts of configuration to identify capacities that could inform current synergies of computational tools, such as open platforms, and architectural concepts of the second digital turn in architecture. The way we communicate, access, and exchange information recently accelerated towards realtime sharing of data, bits & pieces, and experiences. Open platforms that enable user-generated content and collective production of value are becoming more common in design. This paper discusses ways in which this collective content production can enable a computational and human-centric architecture, by reappraising previous concepts of configuration such as: open configurations, latent structures and variable infills.
+
+3.**[Realtime Architecture Platform Collab Wood](https://www.researchgate.net/publication/356557159_Realtime_Architecture_Platform_Collab_Wood)**
+
+**Grasser, A, Parger, A., Hirschberg, U.**
+
+*Abstract*
+
+This project proposes a realtime architecture platform. It's based on previous research on collaborative architecture (Grasser 2019) as well as research on combinatorial design (Sanchez 2016), digital architecture (Carpo 2013), and discrete mereologies (Koehler 2019). The platform was applied in a design studio at the Institute of Architecture and Media at Graz University of Technology with 20 Masters students. Due to restrictions of the global pandemic, we worked in a distributed mode of telepresent teaching. The implementation of this new working method further accelerated the focus on digital collaboration in architecture. Using the platform to collaborate in real time, the Collab Wood prototype was designed and realized.
+
+4.**[Blockchain Architectures, the Potential of Web3 for Decentralized Participatory ArchitectureCollaborative obiects on the Blockchain](https://www.researchgate.net/publication/363504669_Blockchain_Architectures_the_Potential_of_Web3_for_Decentralized_Participatory_Architecture_-_Collaborative_objects_on_the_Blockchain)**
+
+**Grasser, A, Parger, A**
+
+*Abstract*
+
+This paper explores the potential of blockchain technology and the Web3 for a decentralized participatory architecture. In this context, the polyvalent capacity of a block in a blockchain is at the center of this investigation. Blockchain innovations in cryptography and efficient block validation and creation systems have led to autonomous blocks that act as decentralized, transparent, and secure Web3 assets. Following our previous research on collaborative objects that enable real-time participatory design activities, a case study project H=N BLOCK+A is developed that implements blockchain principles at both the conceptual and infrastructural levels. At the conceptual level, architectural blocks are speculated and applied as autonomous and decentralized Web3 assets, i.e., a decentralized kit of parts/blocks/NFTs/applications that can form a crazy patchwork of heterogeneous compatible blocks. At the infrastructural level, an existing sustainable blockchain is facilitated to embed a decentralized design methodology that enables real-time participatory co-creation of a collective architectural form.
+
+5.**[Decentralized Participation and Agency in Digital Art and Architecture, An Exploration ofPixel and Voxel-Based Case Studies](https://www.researchgate.net/publication/373998468_Decentralized_Participation_and_Agency_in_Digital_Art_and_Architecture_An_Exploration_of_Pixel_and_Voxel-Based_Case_Studies?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSJ9fQ)**
+
+**Grasser, A.**
+
 ## Immanuel Koh
 
 1.**[Your Memory Palace in the Metaverse with AI](https://www.researchgate.net/publication/375530571_Your_Memory_Palace_in_the_Metaverse_with_AI)**
