@@ -8,7 +8,7 @@
 
 <br>
 
-**Microfeel** is an interdisciplinary team based in Singapore with excellent overseas PhD academic background. We have been deeply engaged in the fields of spatial automatic generation and spatial understanding, artificial intelligence and machine learning for many years. We are the earliest group of researchers and practitioners to conduct AI3D.
+**Microfeel** is an interdisciplinary team based in Singapore and Finland with excellent overseas PhD academic background. We have been deeply engaged in the fields of spatial automatic generation and spatial understanding, artificial intelligence and machine learning for many years. We are the earliest group of researchers and practitioners to conduct AI3D.
 
 ---
 ## Ximing Zhong(CEO)
